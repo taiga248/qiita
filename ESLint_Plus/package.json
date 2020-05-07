@@ -1,0 +1,10 @@
+{
+  "name": "ESLint_Plus",
+  "scripts": {
+    "lint": "eslint src",
+    "fix": "eslint --fix src"
+  },
+  "dependencies": {
+    "eslint": "^6.6.0"
+  }
+}

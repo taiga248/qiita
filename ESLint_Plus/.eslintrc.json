@@ -1,0 +1,8 @@
+{
+    "extends": ["eslint:recommended"],
+    "env": {"browser": true},
+    "rules": {
+      "quotes": ["warn", "double"],
+      "space-before-blocks": ["warn", { "functions": "always" }]
+    }
+}

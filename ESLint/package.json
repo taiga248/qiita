@@ -1,0 +1,9 @@
+{
+  "name": "lint",
+  "scripts": {
+    "lint": "eslint src"
+  },
+  "dependencies": {
+    "eslint": "^6.8.0"
+  }
+}

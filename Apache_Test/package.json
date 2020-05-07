@@ -1,0 +1,12 @@
+{
+  "name": "Apache_Test",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Energy",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "morgan": "^1.9.1"
+  }
+}

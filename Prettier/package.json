@@ -1,0 +1,11 @@
+{
+  "name": "Prettier",
+  "version": "1.0.0",
+  "scripts": {
+    "fmt": "prettier --write src/**.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^1.19.1"
+  }
+}
