@@ -25,4 +25,4 @@ npm run test
 npm run lint
 ```
 
-[Qiita](https://qiita.com/Taiga_Ito/items/215410b29ddc51a3a1e0)
+特に詳しい説明は書いてないですけど[Qiita](https://qiita.com/Taiga_Ito/items/215410b29ddc51a3a1e0)の記事です。
