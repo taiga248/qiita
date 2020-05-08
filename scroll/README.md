@@ -25,5 +25,4 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[Qiita](https://qiita.com/Taiga_Ito/items/215410b29ddc51a3a1e0)
