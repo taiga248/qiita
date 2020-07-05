@@ -1,4 +1,4 @@
-function hole(text) {
-  console.log(text +"使ってみた")
+function hoge(text){
+  console.log(text+'使ってみた')
 }
-hoge("ESLint")
+hoge('ESLint')
