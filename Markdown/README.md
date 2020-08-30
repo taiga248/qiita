@@ -43,7 +43,7 @@
 ```
 
 # 4.コードを書く
-```
+```:index.c
 #include <stdio.h>
 int main(void){
   printf("Hello World");
